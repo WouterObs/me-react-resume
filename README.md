@@ -63,4 +63,5 @@ When you're all done, run `npm start` again and you'll see your new personal res
 
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec183bdf6f8d422da7f1b00e7292d904)](https://app.codacy.com/gh/WouterObs/me-react-resume?utm_source=github.com&utm_medium=referral&utm_content=WouterObs/me-react-resume&utm_campaign=Badge_Grade_Settings)
 [![CodeQL](https://github.com/WouterObs/me-react-resume/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/WouterObs/me-react-resume/actions/workflows/codeql-analysis.yml)
