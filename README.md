@@ -62,3 +62,5 @@ When you're all done, run `npm start` again and you'll see your new personal res
 ##### Testimonial photo credit
 
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+
+[![CodeQL](https://github.com/WouterObs/me-react-resume/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/WouterObs/me-react-resume/actions/workflows/codeql-analysis.yml)
