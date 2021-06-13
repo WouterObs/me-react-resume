@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable no-var */
 import React, { Component } from "react";
 
 class Testimonials extends Component {
